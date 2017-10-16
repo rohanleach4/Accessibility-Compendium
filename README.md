@@ -1,5 +1,5 @@
 # Accessibility - Compendium
-## Cheat Sheet for Designers and forgetful Developers
+## A thoughtfully composed Cheat Sheet for Designers and forgetful Developers
 
 ## Where does accessibility start?
 Accessibility doesn’t start with developers. It starts at _the start_ of the project, at the top of the pyramid. 
