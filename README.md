@@ -34,7 +34,7 @@ Using appropriate tags like:
 <button>This is a button</button>
 <input type=”text” />
 ```
-will always pay dividends over bastardised 
+will always pay dividends over the bastardised 
 ```html
 <div tags type=”button” role=”button”>Try and tab this ya bugger</div>
 <div contenteditable="true">Please Die if you use this</div>
