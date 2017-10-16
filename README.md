@@ -53,9 +53,9 @@ Semantically correct sites are going to be lighter in weight (most, if not all o
 
 When building a digital product, in this instance a website, get in the habit of testing as you go along. It doesn’t take very long and once you get in the habit of doing so, it just feels natural and you won’t have to go back and rewrite it later.
 
-> You never add accessibility to a site at a later date
-> You rewrite the site and do it properly
-> What’s the point? Do it right first time
+> You never add accessibility to a site at a later date.
+> You rewrite the site and do it properly.
+> What’s the point? Do it right first time.
 
 Testing tools
 If you use Chrome, go to Audits (this used to be called Lighthouse before it was baked into the browser) and run an audit. 
