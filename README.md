@@ -57,7 +57,7 @@ When building a digital product, in this instance a website, get in the habit of
 > #### You rewrite the site and do it properly.
 > #### What’s the point? Do it right first time.
 
-Testing tools
+### Testing tools
 If you use Chrome, go to Audits (this used to be called Lighthouse before it was baked into the browser) and run an audit. 
 This will audit your site and give you an accessibility score.
 Never accept anything less that 100/100. 
