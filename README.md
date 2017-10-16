@@ -26,26 +26,21 @@ This is simple.
 This is almost 80% of the battle.
 
 Using appropriate tags like:
-
 ```html
 <button>This is a button</button>
 <input type=”text” />
 ```
 will always pay dividends over bastardised 
 ```html
-<div tags type=”button” role=”button”>
+<div tags type=”button” role=”button”>Try and tab this ya bugger</div>
 <div contenteditable="true">Please Die if you use this</div>
 ```
-
 If you use the correct tags, the user can tab between the elements and use the return key. 
 It works across all browsers and doesn’t require any JS to sort its nonsense out. 
-It is a web standard.
+Appropriate tags are a web standard.
 
 Semantics don’t just end with buttons and input fields.
-```html
-<h1> - <h6> - <p>
-```
-tags are equally important. It is what helps screen readers.
+h1, h2, h3, h4, h5, p tags are equally important. It is what helps screen readers.
 
 Semantically correct sites are going to be lighter in weight (most, if not all of the functionality is done for you), better for mobile ands probably, although I am loathed to say this, better for SEO.
 
