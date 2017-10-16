@@ -40,7 +40,8 @@ It works across all browsers and doesn’t require any JS to sort its nonsense o
 Appropriate tags are a web standard.
 
 Semantics don’t just end with buttons and input fields.
-h1, h2, h3, h4, h5, p tags are equally important. It is what helps screen readers.
+h1, h2, h3, h4, h5, p tags are equally important.
+These help screen readers.
 
 Semantically correct sites are going to be lighter in weight (most, if not all of the functionality is done for you), better for mobile ands probably, although I am loathed to say this, better for SEO.
 
