@@ -28,13 +28,13 @@ This is almost 80% of the battle.
 
 Using appropriate tags like:
 
-- <button> 
-- <input type=”text” /> 
+<pre><button>This is a button</button></pre>
+<pre><input type=”text” /></pre>
 
 will always pay dividends over bastardised 
 
-- <div tags type=”button” role=”button”>
-    <div contenteditable="true">Please Die if you use this</div>
+<pre><div tags type=”button” role=”button”></pre>
+<pre><div contenteditable="true">Please Die if you use this</div></pre>
 
 If you use the semantically correct tags, the user can tab between the elements and use the return key to initiate them. 
 It works across all browsers and doesn’t require any JS to sort its nonsense out. 
