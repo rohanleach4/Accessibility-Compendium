@@ -4,7 +4,7 @@
 ## Where does accessibility start?
 Accessibility doesn’t start with developers. It starts at _the start_ of the project, at the top of the pyramid. 
 Accessibility, at the very least should be baked into the culture of the company producing the product.
-The first physical implementation of accessibility is at the design stage.
+The first physical implementation of accessibility will probably be at the design stage.
 
 ## Designers vs. Creatives
 Designers are more aligned to architects, Creatives to artists.
