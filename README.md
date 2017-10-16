@@ -26,9 +26,13 @@ This is simple.
 This is almost 80% of the battle.
 
 Using appropriate tags like:
+{::nomarkdown}
 
 <pre><button>This is a button</button></pre>
 <pre><input type=”text” /></pre>
+
+{:/}
+
 
 will always pay dividends over bastardised 
 
