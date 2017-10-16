@@ -1,6 +1,5 @@
-# Accessibility---Compendium - Cheat Sheet
+# Accessibility - Compendium
 ## Cheat Sheet for Designers and forgetful Developers
-
 
 ## Where does accessibility start?
 Accessibility doesn’t start with developers. It starts at _the start_ of the project, at the top of the pyramid. 
@@ -43,7 +42,6 @@ It is a web standard.
 Semantics don’t just end with buttons and input fields. <h1> - <h6> - <p> tags are equally important. It is what helps screen readers.
 
 Semantically correct sites are going to be lighter in weight (most, if not all of the functionality is done for you), better for mobile ands probably, although I am loathed to say this, better for SEO.
-
 
 ## Testing
 
