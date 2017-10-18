@@ -16,9 +16,6 @@ The first physical implementation of accessibility will probably be at the desig
 
 A good design has to be fit for purpose. It has to be fit for all the mediums it is going to be viewed on.
 
-_hints and tips_
-In the case of designing for a digital medium, whether in a browser or a native app, the first step to take is to pay attention to the semantic layout. If you do this, you cater for all users regardless of ability. 
-
 ## Be equitable in your design
 
 > ### Thousands of high street businesses could effectively be turning away the custom of 1 in 5 people by not attracting disabled people, the Minister for Disabled People Mark Harper said today (27 August 2014)
@@ -32,10 +29,15 @@ Do this and the world will be a better place … and … it’s the law.
 A good designer will always deliver a more robust and useable product than a great Creative.
 The world needs more Designers.
 
-## Janet and John stuff
+# Janet and John stuff
+
+## Semantics
+_hints and tips_
+
+In the case of designing for a digital medium, whether in a browser or a native app, the first step to take is to pay attention to the semantic layout. If you do this, you cater for all users regardless of ability.
+
 Make every effort to be semantically correct throughout the design. 
-This is simple.
-This is almost 80% of the battle.
+This is simple and is 80% of the battle.
 
 Using appropriate tags like:
 ```html
@@ -58,7 +60,7 @@ These help screen readers.
 Semantically correct sites are going to be lighter in weight (most, if not all of the functionality is done for you), better for mobile ands probably, although I am loathed to say this, better for SEO.
 
 ## Please don’t …
-Yes, everybody understands that you don’t like the ‘fuzzy blue outline’ that surrounds an element when it is in focus in Chrome, etc. but please don’t remove it (or if you have to, replace it with the same outline, in another colour). 
+Everybody understands that you don’t like the ‘fuzzy blue outline’ that surrounds an element when it is in focus in Chrome, etc. but please don’t remove it (or if you have to, replace it with the same outline, in another colour). 
 Without this, nobody can see where they are tabbing and … well … it’s just naughty.
 
 ## Testing
