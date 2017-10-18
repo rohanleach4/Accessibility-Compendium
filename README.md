@@ -20,6 +20,10 @@ It has been noted that 1 in 5 people can be described as having a disability.
 Make sure it can be viewed and enjoyed by everyone, regardless of their ability.
 Do this and the world will be a better place … and … it’s the law.
 
+## Please don’t …
+Yes, everybody understands that you don’t like the ‘fuzzy blue outline’ that surrounds an element when it is in focus in Chrome, etc. but please don’t remove it (or if you have to, replace it with the same outline, in another colour). 
+Without this, nobody can see where they are tabbing and … well … it’s just naughty.
+
 ## Conclusion
 A good designer will always deliver a more robust and useable product than a great Creative.
 The world needs more Designers.
@@ -65,6 +69,37 @@ This isn’t the be-all-and-end-all of accessibility. With this score, you have 
 
 Every time you view a change or update to your site, check that every element can be tabbed with the tab key. It is essential that this works. If it doesn’t, stop and fix it. Don’t pile more code on top of a broken page.
 Make it a part of your work ethic and you will save loads of time later on.
+
+
+## WAI-ARIA (Accessible Rich Internet Applications)
+Simply put, Aria is a widely supported, accessibility supplement for browsers. It can be made to be ‘safe’ to allow it to degrade gracefully or encourage users to upgrade.
+This has less of an impact on designers, but developers should commit to implementing it into their codebase from the very start of the project. 
+Initially WAI-ARIA can seem daunting, but like everything else, it becomes easier with time.
+
+_Visit this pages Wiki for examples._
+
+## WAI-ARIA tips 
+The trick is not to repeat yourself. If your markup features a <button> there is no need to add a role=”button”.  Semantics do the job.
+
+## WCAG 2.0 Conformance Levels (A-AA-AAA)
+
+WCAG 2.0 is divided into three conformance levels: A-AA-AAA
+A should be described the absolute minimum, AAA it what you should desire.
+
+Level A should have little impact on the design practice, AAA on the other hand will have.
+The AAA Conformation Level can be described as the stickiest and most awkward of all the elements of accessibility. Consideration have to be made at the design level as colour and style will have a significant impact on obtaining AAA.
+
+### Opinion
+Simply put, AAA is a ruddy nightmare to satisfy. 
+There are very few examples of a successful implementation of it on a commercially, but it isn’t something you shouldn’t aspire to.
+
+
+> Conformance requirement #1 allows non-conforming pages to be included within the scope of conformance as long as they have a "conforming alternate version".
+> ref: https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#uc-conforming-alt-versions-head
+
+WC3 mention creating alternate versions of the site that meet the criteria and in most instances, this could be the only feasible way to go, to satisfy the requirements of the client, the designer and the poor bewildered developer.
+
+_Visit this pages Wiki for examples._
 
 
 
