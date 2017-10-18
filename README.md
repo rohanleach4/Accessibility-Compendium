@@ -1,6 +1,8 @@
 # Accessibility - Compendium
 ## A thoughtfully composed suite of opinions and best practices for Designers and forgetful Developers
 
+## Introduction
+
 ## Where does accessibility start?
 Accessibility doesn’t start with developers. It starts at _the start_ of the project, at the top of the pyramid. 
 Accessibility, at the very least should be baked into the culture of the company producing the product.
