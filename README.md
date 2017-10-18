@@ -28,7 +28,7 @@ Casting aside the billions mentioned, The UK Government has noted that 1 in 5 pe
 Make sure your product or service can be viewed and enjoyed by everyone, regardless of their ability.
 Do this and the world will be a better place … and … it’s the law.
 
-## Conclusion
+## Opinion and Conclusion
 A good designer will always deliver a more robust and useable product than a great Creative.
 The world needs more Designers.
 
