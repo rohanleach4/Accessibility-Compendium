@@ -32,8 +32,10 @@ The world needs more Designers.
 # Janet and John stuff
 
 ## Semantics
-_hints and tips
-In the case of designing for a digital medium, whether in a browser or a native app, the first step to take is to pay attention to the semantic layout. If you do this, you cater for all users regardless of ability._
+<mark>
+_hints and tips_ <br />
+_In the case of designing for a digital medium, whether in a browser or a native app, the first step to take is to pay attention to the semantic layout. If you do this, you cater for all users regardless of ability_
+</mark>
 
 Make every effort to be semantically correct throughout the design. 
 This is simple and is 80% of the battle.
