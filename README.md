@@ -87,8 +87,8 @@ Initially WAI-ARIA can seem daunting, but like everything else, it becomes easie
 
 _Visit this pages Wiki for examples._
 
-## WAI-ARIA tips 
-The trick is not to repeat yourself. If your markup features a <button> there is no need to add a role=”button”.  Semantics do the job.
+_hints and tips_ <br />
+_The trick is not to repeat yourself. If your markup features a <button> there is no need to add a role=”button”.  Semantics do the job_
 
 ## WCAG 2.0 Conformance Levels (A-AA-AAA)
 
