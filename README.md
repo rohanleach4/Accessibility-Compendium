@@ -10,13 +10,13 @@ The first physical implementation of accessibility will probably be at the desig
 
 Please visit the Wiki for the below sections
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">## Designers versus Creatives</a>
+## <a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Designers versus Creatives</a>
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">## Janet and John stuff</a>
+## <a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Janet and John stuff</a>
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Testing">## Testing</a>
+## <a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Testing">Testing</a>
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/WAI-ARIA-(Accessible-Rich-Internet-Applications)">## WAI-ARIA (Accessible Rich Internet Applications)</a>
+## <a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/WAI-ARIA-(Accessible-Rich-Internet-Applications)">WAI-ARIA (Accessible Rich Internet Applications)</a>
 
 
 _Visit this pages Wiki for examples._
