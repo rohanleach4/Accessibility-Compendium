@@ -13,9 +13,9 @@ The first physical implementation of accessibility will probably be at the desig
 
 ### Please visit the Wiki for the below sections
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Designers and Creatives</a>
+<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-and-Creatives">Designers and Creatives</a>
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Janet and John stuff</a>
+<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Janet-and-John-stuff">Janet and John stuff</a>
 
 <a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Testing">Testing</a>
 
