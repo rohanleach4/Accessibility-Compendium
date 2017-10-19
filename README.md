@@ -13,7 +13,7 @@ The first physical implementation of accessibility will probably be at the desig
 
 ### Please visit the Wiki for the below sections
 
-<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Designers versus Creatives</a>
+<a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Designers and Creatives</a>
 
 <a href="https://github.com/rohanleach4/Accessibility-Compendium/wiki/Designers-vs.-Creatives">Janet and John stuff</a>
 
