@@ -16,18 +16,19 @@ The first physical implementation of accessibility will probably be at the desig
 
 A good design has to be fit for purpose. It has to be fit for all the mediums it is going to be viewed on.
 
-## Be equitable in your design
+## Be equitable in your design process
 
 > ### Thousands of high street businesses could effectively be turning away the custom of 1 in 5 people by not attracting disabled people, the Minister for Disabled People Mark Harper said today (27 August 2014)
 > #### https://www.gov.uk/government/news/high-street-could-be-boosted-by-212-billion-purple-pound-by-attracting-disabled-people-and-their-families
 
-Casting aside the billions mentioned, The UK Government has noted that 1 in 5 people can be described as having a disability.
+Casting aside the billions mentioned, The UK Government has noted that 1 in 5* people can be described as having a disability.
 Make sure your product or service can be viewed and enjoyed by everyone, regardless of their ability.
 Do this and the world will be a better place … and … it’s the law.
 
 ## Opinion and Conclusion
 A good designer will always deliver a more robust and useable product than a great Creative.
 The world needs more Designers.
+##### * _on further investigation, the Government seem to use the phrase '1 in 5' for just about everything ... it would be nice to see a breakdown of how they get those figures_
 
 # Janet and John stuff
 
@@ -58,9 +59,10 @@ These help screen readers.
 
 Semantically correct sites are going to be lighter in weight (most, if not all of the functionality is done for you), better for mobile ands probably, although I am loathed to say this, better for SEO.
 
-## Please don’t …
-Everybody understands that you don’t like the ‘fuzzy blue outline’ that surrounds an element when it is in focus in Chrome, etc. but please don’t remove it (or if you have to, replace it with the same outline, in another colour). 
-Without this, nobody can see where they are tabbing and … well … it’s just naughty.
+_hints and tips_ <br />
+_Please don’t …_ <br />
+_Everybody understands that you don’t like the ‘fuzzy blue outline’ that surrounds an element when it is in focus in Chrome, etc. but please don’t remove it (or if you have to, replace it with the same outline, in another colour). 
+Without this, nobody can see where they are tabbing and … well … it’s just naughty._
 
 ## Testing
 
